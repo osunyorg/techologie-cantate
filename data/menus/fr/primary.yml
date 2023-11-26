@@ -2,7 +2,7 @@
 title: Menu principal
 items:
 - title: Écouter la Cantate
-  target: "/la-cantate-du-numerique/"
+  target: "/ecouter-la-cantate/"
   kind: page
   children: []
 
