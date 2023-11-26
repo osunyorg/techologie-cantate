@@ -17,4 +17,8 @@ items:
   target: "/organisations/"
   kind: page
   children: []
+- title: La Cantate du Numérique
+  target: "/la-cantate-du-numerique/"
+  kind: page
+  children: []
 
