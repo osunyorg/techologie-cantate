@@ -5,4 +5,5 @@ items:
   target: "/ecouter-la-cantate/"
   kind: page
   children: []
+  file: content/fr/pages/ecouter-la-cantate/_index.html
 
