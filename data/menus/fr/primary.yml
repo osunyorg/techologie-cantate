@@ -4,6 +4,7 @@ items:
 - title: Écouter la Cantate
   target: "/ecouter-la-cantate/"
   kind: page
+  new_tab: false
   children: []
   path: "/pages/ecouter-la-cantate"
   file: content/fr/pages/ecouter-la-cantate/_index.html
